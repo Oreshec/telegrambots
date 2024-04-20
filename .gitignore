@@ -1,1 +1,4 @@
-config.ini
+/config.py
+/.idea/
+/my_account.session
+/my_account.session-journal
